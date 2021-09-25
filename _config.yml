@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://www.yucg.cn
+url: https://YUCONGGEN.github.io
 root: /
 # permalink: :year/:month/:day/:title/
 permalink: posts/:abbrlink.html  # p 是自定义的前缀
@@ -128,7 +128,7 @@ sitemap:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
 - type: 'git'
-  repo:  git@gitee.com:yuconggen/blog.git
+  repo:  git@github.com:YUCONGGEN/YUCONGGEN.github.io.git
   branch: master
 #- type: baidu_url_submitter
 # # Deployment
